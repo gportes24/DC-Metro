@@ -38,7 +38,7 @@ app.layout = html.Div(children=[
                 'font-size': '30px',
                 'height': '220px',
                 'border': 'thin blue solid',
-                'color': 'rgb(60, 80, 182)',
+                'color': 'rgb(159, 78, 78)',
                 'backgroundColor': 'rgb(57, 83, 107)',
                 'textAlign': 'right',
                 }),
